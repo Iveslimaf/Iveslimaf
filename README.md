@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td>
-        <a href="iveslima15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="mailto:iveslima15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/ives-lima-franco-3a365b328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn"></a>
         <a href="http://lattes.cnpq.br/1160576407370230" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23008CFF?style=for-the-badge&logo=about.me&logoColor=white" alt="Lattes"></a>
       </td>
