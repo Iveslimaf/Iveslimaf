@@ -4,14 +4,15 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times&weight=400&size=40&duration=4000&pause=500&color=4169E1&center=true&vCenter=true&width=600&lines=My+name+is+Ives+Lima+Franco.;I'm+20+years+old.;I+study+Mechatronics+Engineering.;At+the+University+of+Brasilia." alt="Typing SVG" />
 </div>
-
 <br><br>
+<hr style="border"; height=1px; width=100%;"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Iveslimaf&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Ives Lima Franco github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iveslimaf&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
 </div>
 
+<hr style="border"; height=1px; width=100%;"/>
 <br><br>
 
 <div align="center">
@@ -26,6 +27,8 @@
 </div>
 
 
+<br><br>
+<hr style="border"; height=1px; width=100%;"/>
 <br><br>
 
 
@@ -44,5 +47,5 @@
     </tr>
   </table>
 </div>
-
+<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
