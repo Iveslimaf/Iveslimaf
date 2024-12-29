@@ -18,9 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Times&weight=400&size=40&duration=4000&pause=500&color=4169E1&center=true&vCenter=true&width=600&lines=My+Skills" alt="Typing SVG" />
   <p>
     <img align="center" alt="Ives-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ives-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     <img align="center" alt="Ives-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="center" alt="Ives-html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Ives-Go" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+    <img align="center" alt="Ives-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   </p>
 </div>
 
